@@ -1,0 +1,9 @@
+{
+	"type":"stonecutting",
+	"group":"chest",
+	"ingredient":{
+		"tag":"forge:chests"
+	},
+	"result":"quark:prismarine_chest",
+	"count":1
+}

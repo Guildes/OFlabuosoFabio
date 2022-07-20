@@ -1,0 +1,5 @@
+
+[wake_up_actions]
+	#Keep chat open after waking up if it contains any text.
+	"Persistent Chat" = true
+

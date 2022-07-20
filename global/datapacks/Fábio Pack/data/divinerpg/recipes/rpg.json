@@ -1,0 +1,27 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	"ingredients":[
+		{
+			"item":"divinerpg:eden_block"
+		},
+		{
+			"item":"divinerpg:arcanium_block"
+		},
+		{
+			"item":"divinerpg:skythern_block"
+		},
+		{
+			"item":"divinerpg:apalachia_block"
+		},
+		{
+			"item":"divinerpg:wildwood_block"
+		},
+		{
+			"item":"divinerpg:mortum_block"
+		}
+	],
+	"result":{
+		"item":"kubejs:rpg",
+		"count":1
+	}
+}

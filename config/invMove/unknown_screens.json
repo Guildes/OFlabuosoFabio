@@ -1,0 +1,9 @@
+{
+  "com.mrcrayfish.configured.client.screen.ConfigScreen_background": true,
+  "com.mrcrayfish.catalogue.client.screen.CatalogueModListScreen_background": true,
+  "com.mrcrayfish.configured.client.screen.EditStringScreen_background": true,
+  "com.mrcrayfish.configured.client.screen.ModConfigSelectionScreen_background": true,
+  "com.mrcrayfish.configured.client.screen.EditListScreen_background": true,
+  "com.mrcrayfish.configured.client.screen.WorldSelectionScreen_background": true,
+  "com.mrcrayfish.configured.client.screen.ChangeEnumScreen_background": true
+}

@@ -1,0 +1,8 @@
+sets:Travel Anchors:gui.xaero_default
+#
+#waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:global
+#
+waypoint:0:0:0:70:0:7:false:0:Travel Anchors:false:0:true
+waypoint:Center:C:9:63:23:3:false:0:Travel Anchors:false:0:false
+waypoint:Flat:F:30:62:-91:3:false:0:Travel Anchors:false:0:false
+waypoint:Shore:S:12:63:-31:3:false:0:Travel Anchors:false:0:false

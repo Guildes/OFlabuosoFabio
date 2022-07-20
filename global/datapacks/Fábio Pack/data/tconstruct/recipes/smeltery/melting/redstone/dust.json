@@ -1,0 +1,17 @@
+{
+  "type": "tconstruct:melting",
+  "ingredient": [
+    {
+      "tag": "forge:dusts/redstone"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "fluid": "thermal:redstone",
+    "amount": 100
+  },
+  "temperature": 477,
+  "time": 49
+}

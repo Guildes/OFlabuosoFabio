@@ -1,0 +1,28 @@
+{
+	"type": "enderstorage:create_recipe",
+	"result": {
+		"item": "enderstorage:ender_pouch"
+	},
+	"pattern": [
+		"BWB",
+		"DPD",
+		"BLB"
+	],
+	"key": {
+		"P": {
+			"tag": "forge:ender_pearls"
+		},
+		"L": {
+			"tag": "forge:leather"
+		},
+		"B": {
+			"item": "minecraft:blaze_powder"
+		},
+		"D": {
+			"tag": "forge:gems/diamond"
+		},
+		"W": {
+			"tag": "forge:wool"
+		}
+	}
+}

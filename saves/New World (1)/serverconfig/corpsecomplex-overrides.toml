@@ -1,0 +1,5 @@
+#List of overridden settings based on conditions
+overrides = []
+#List of possible conditions for overrides
+conditions = []
+

@@ -1,0 +1,4 @@
+"Enable Debug Output" = true
+"Disable Ores" = ["tconstruct:copper_ore", "thermal:copper_ore", "cavesandcliffs:copper_ore"]
+"Custom Ore" = []
+

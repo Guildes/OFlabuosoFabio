@@ -1,0 +1,54 @@
+{
+  "type": "compactcrafting:miniaturization",
+  "recipeSize": 7,
+  "layers": [
+    {
+      "type": "compactcrafting:filled",
+      "component": "N"
+    },
+    {
+      "type": "compactcrafting:filled",
+      "component": "N"
+    },
+    {
+      "type": "compactcrafting:filled",
+      "component": "N"
+    },
+    {
+      "type": "compactcrafting:filled",
+      "component": "N"
+    },
+    {
+      "type": "compactcrafting:filled",
+      "component": "N"
+    },
+    {
+      "type": "compactcrafting:filled",
+      "component": "N"
+    },
+    {
+      "type": "compactcrafting:filled",
+      "component": "N"
+    }
+
+  ],
+
+  "catalyst": {
+    "id": "rubber_duck:rubber_duck_item",
+    "Count": 1
+  },
+
+  "components": {
+    "N": {
+      "type": "compactcrafting:block",
+      "block": "minecraft:netherite_block"
+    }
+  },
+
+  "outputs": [
+    {
+      "id": "kubejs:super_netherite_block",
+      "Count": 1
+    }
+  ]
+}

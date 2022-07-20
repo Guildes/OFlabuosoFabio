@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#E#",
+        "#R#",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "forge:obsidian"
+        },
+        "E": {
+            "item": "minecraft:ender_chest"
+        },
+        "R": {
+            "item": "ars_nouveau:ring_of_potential"
+        }
+    },
+    "result": {
+        "item": "ring_of_enderchest:ring_of_enderchest",
+        "count": 1
+    }
+}

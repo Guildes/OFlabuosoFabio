@@ -1,0 +1,12 @@
+{
+	"type":"smithing",
+	"base":{
+		"item":"kubejs:divine"
+	},
+	"addition":{
+		"item":"kubejs:rpg"
+	},
+	"result":{
+		"item":"kubejs:divine_rpg"
+	}
+}

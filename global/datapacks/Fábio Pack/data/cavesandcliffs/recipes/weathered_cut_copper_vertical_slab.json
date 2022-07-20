@@ -1,0 +1,9 @@
+{
+	"type":"stonecutting",
+	"group":"weathered_cut_copper_vertical_slab",
+	"ingredient":{
+		"item":"cavesandcliffs:weathered_copper"
+	},
+	"result":"cavesandcliffs:weathered_cut_copper_vertical_slab",
+	"count":8
+}

@@ -1,0 +1,12 @@
+{
+	"type":"smithing",
+	"base":{
+		"item":"magic_doorknob:magic_doorknob_diamond"
+	},
+	"addition":{
+		"item":"minecraft:netherite_scrap"
+	},
+	"result":{
+		"item":"magic_doorknob:magic_doorknob_netherite"
+	}
+}

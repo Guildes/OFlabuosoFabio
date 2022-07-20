@@ -1,0 +1,33 @@
+
+#Note that almost all config changes require a server restart and/or a full minecraft restart. Dimensional Ore Configuration
+[dimensional_ore]
+	#Spawn diamondsand in the overworld? Default = true
+	overworld = false
+
+#Rarity Configuration
+["Diamond Sand Overworld"]
+	#Rarity of diamond sand veins. Default = 6
+	#Range: 0 ~ 100
+	rarity = 6
+	#Maximum vein size for an diamondsand Ore vein. For reference, diamonds have a max vein size of 8. Default = 7
+	#Range: 0 ~ 64
+	vein_size = 7
+	#Maximum spawn height size for an diamondsand ore vein. Default = 16
+	#Range: 1 ~ 255
+	max_spawn_height = 64
+	#Maximum spawn height size for an diamondsand ore vein. Default = 16
+	#Range: 1 ~ 255
+	min_spawn_height = 20
+	#List of biomes as strings separated with commas where this mod is allowed to spawn diamond sand ore. If this list is defined, normal generation no longer applies. Can be used with the blacklist. Use F3+h or a map mod to see biome names or turn on debug mode: example: minecraft:forest
+	"Whitelisted Biomes" = []
+	#List of biomes as strings separated with commas where this mod is not allowed to spawn diamond sand ore. If this list is defined, normal generation no longer applies. Can be used with the whitelist. Use F3+h or a map mod to see biome names or turn on debug mode: example: minecraft:warm_ocean
+	"Blacklisted Biomes" = []
+	#Toggle whether messages appear in console and logs about which biomes we have whitelisted or blacklisted or not
+	"Debug Biome Generation?" = false
+
+[network]
+	#Sync your config to the server upon joining? (Requires a Minecraft restart afterwards)
+	enable_server_config_sync = false
+	#Sends a packet that attempts to sync the client config file to the server?
+	send_config_sync_packet = false
+

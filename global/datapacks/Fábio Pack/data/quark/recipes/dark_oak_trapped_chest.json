@@ -1,0 +1,9 @@
+{
+	"type":"stonecutting",
+	"group":"trapped_chest",
+	"ingredient":{
+		"tag":"forge:chests/trapped"
+	},
+	"result":"quark:dark_oak_trapped_chest",
+	"count":1
+}

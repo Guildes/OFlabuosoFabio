@@ -1,0 +1,24 @@
+{
+	"type":"minecraft:crafting_shapeless",
+	"ingredients":[
+		{
+			"item":"divinerpg:arlemite_block"
+		},
+		{
+			"item":"divinerpg:torridite_block"
+		},
+		{
+			"item":"divinerpg:bloodgem_block"
+		},
+		{
+			"item":"divinerpg:realmite_block"
+		},
+		{
+			"item":"divinerpg:rupee_block"
+		}
+	],
+	"result":{
+		"item":"kubejs:divine",
+		"count":1
+	}
+}

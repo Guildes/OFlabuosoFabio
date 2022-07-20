@@ -1,0 +1,8 @@
+{
+	"type":"stonecutting",
+	"ingredient":{
+		"item":"cavesandcliffs:waxed_oxidized_copper"
+	},
+	"result":"cavesandcliffs:waxed_oxidized_cut_copper_vertical_slab",
+	"count":8
+}

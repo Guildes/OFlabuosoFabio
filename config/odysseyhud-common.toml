@@ -1,0 +1,17 @@
+
+["OdysseyHUD Config"]
+	#Must Have Clock in Inventory
+	mustHaveClockInInventory = true
+	#Vertical Position
+	#Allowed Values: TOP, BOTTOM
+	verticalPosition = "BOTTOM"
+	#xSetOff Position
+	#Range: -8640 ~ 8640
+	xSetOffPosition = 169
+	#ySetOff Position
+	#Range: -8640 ~ 8640
+	ySetOffPosition = -365
+	#Horizontal Position
+	#Allowed Values: MIDDLE, LEFT, RIGHT
+	horizontalPosition = "MIDDLE"
+

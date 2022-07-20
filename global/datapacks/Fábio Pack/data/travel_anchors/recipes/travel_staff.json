@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "  E",
+        " S ",
+        "P  "
+    ],
+    "key": {
+        "E": {
+            "item": "minecraft:ender_pearl"
+        },
+        "S": {
+            "item": "minecraft:shulker_shell"
+        },
+        "P": {
+            "item": "minecraft:popped_chorus_fruit"
+        }
+    },
+    "result": {
+        "item": "travel_anchors:travel_staff",
+        "count": 1
+    }
+}

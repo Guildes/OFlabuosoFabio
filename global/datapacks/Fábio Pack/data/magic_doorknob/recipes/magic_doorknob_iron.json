@@ -1,0 +1,12 @@
+{
+	"type":"smithing",
+	"base":{
+		"item":"magic_doorknob:magic_doorknob_stone"
+	},
+	"addition":{
+		"item":"minecraft:iron_block"
+	},
+	"result":{
+		"item":"magic_doorknob:magic_doorknob_iron"
+	}
+}

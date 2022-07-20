@@ -1,0 +1,49 @@
+{
+	"type": "compactcrafting:miniaturization",
+	"recipeSize": 3,
+	"layers": [
+		{
+			"type": "compactcrafting:mixed",
+			"pattern": [
+				["", "", ""],
+				["", "W", ""],
+				["", "", ""]
+			]
+		},{
+			"type": "compactcrafting:mixed",
+			"pattern": [
+				["", "W", ""],
+				["W", "R", "W"],
+				["", "W", ""]
+			]
+		},{
+			"type": "compactcrafting:mixed",
+			"pattern": [
+				["", "", ""],
+				["", "W", ""],
+				["", "", ""]
+			]
+		}
+	],
+	"catalyst": {
+			"id": "minecraft:iron_ingot",
+			"Count": 1
+		},
+	"components": {
+		"W": {
+			"type": "compactcrafting:block",
+			"block": "compactmachines:wall"
+		},
+		"R": {
+			"type": "compactcrafting:block",
+			"block": "minecraft:redstone_block"
+		}
+	},
+	"outputs": [
+		{
+			"id": "compactmachines:tunnel",
+			"tag": {"definition":{"id":"compactmachines:redstone_in"}},
+			"Count": 2
+		}
+	]
+}

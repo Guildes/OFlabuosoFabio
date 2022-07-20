@@ -1,0 +1,56 @@
+{
+  "type": "compactcrafting:miniaturization",
+  "recipeSize": 5,
+  "layers": [
+    {
+      "type": "compactcrafting:filled",
+      "component": "W"
+    },
+    {
+      "type": "compactcrafting:hollow",
+      "wall": "W"
+    },
+    {
+      "type": "compactcrafting:mixed",
+      "pattern": [
+        ["W", "W", "W", "W", "W"],
+        ["W", "-", "-", "-", "W"],
+        ["W", "-", "C", "-", "W"],
+        ["W", "-", "-", "-", "W"],
+        ["W", "W", "W", "W", "W"]
+      ]
+    },
+    {
+      "type": "compactcrafting:hollow",
+      "wall": "W"
+    },
+    {
+      "type": "compactcrafting:filled",
+      "component": "W"
+    }
+  ],
+
+  "catalyst": {
+    "id": "minecraft:netherite_ingot",
+    "Count": 1
+  },
+
+  "components": {
+    "W": {
+      "type": "compactcrafting:block",
+      "block": "compactmachines:wall"
+    },
+
+    "C": {
+      "type": "compactcrafting:block",
+      "block": "compactmachines:machine_giant"
+    }
+  },
+
+  "outputs": [
+    {
+      "id": "compactmachines:machine_maximum",
+      "Count": 1
+    }
+  ]
+}

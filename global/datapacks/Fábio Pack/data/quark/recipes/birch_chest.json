@@ -1,0 +1,9 @@
+{
+	"type":"stonecutting",
+	"group":"chest",
+	"ingredient":{
+		"tag":"forge:chests"
+	},
+	"result":"quark:birch_chest",
+	"count":1
+}

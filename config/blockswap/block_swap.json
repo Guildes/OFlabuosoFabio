@@ -1,0 +1,23 @@
+{
+  "retroGen": false,
+  "swapper": {
+    "chisel:marble": "astral_sorcery:raw_marble",
+    "quark:deepslate": "cavesandcliffs:deepslate",
+    "botania:gray_mushroom": "minecraft:air",
+    "botania:pink_mushroom": "minecraft:air",
+    "botania:lime_mushroom": "minecraft:air",
+    "botania:yellow_mushroom": "minecraft:air",
+    "botania:light_blue_mushroom": "minecraft:air",
+    "botania:magenta_mushroom": "minecraft:air",
+    "botania:orange_mushroom": "minecraft:air",
+    "botania:cyan_mushroom": "minecraft:air",
+    "botania:purple_mushroom": "minecraft:air",
+    "botania:blue_mushroom": "minecraft:air",
+    "botania:brown_mushroom": "minecraft:air",
+    "botania:green_mushroom": "minecraft:air",
+    "botania:red_mushroom": "minecraft:air",
+    "botania:black_mushroom": "minecraft:air",
+    "botania:light_gray_mushroom": "minecraft:air",
+    "botania:white_mushroom": "minecraft:air"
+  }
+}
