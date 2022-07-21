@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:casting_table",
-  "fluid": {
-    "name": "thermal:glowstone",
-    "amount": 250
-  },
-  "result": "minecraft:glowstone_dust",
-  "cooling_time": 65
-}

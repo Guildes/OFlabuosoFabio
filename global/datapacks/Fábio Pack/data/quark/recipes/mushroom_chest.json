@@ -1,9 +1,0 @@
-{
-	"type":"stonecutting",
-	"group":"chest",
-	"ingredient":{
-		"tag":"forge:chests"
-	},
-	"result":"quark:mushroom_chest",
-	"count":1
-}
