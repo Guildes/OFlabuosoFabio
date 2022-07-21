@@ -1,8 +1,0 @@
-{
-	"type":"stonecutting",
-	"ingredient":{
-		"item":"minecraft:charcoal"
-	},
-	"result":"chisel:charcoal/raw",
-	"count":1
-}

@@ -1,9 +1,0 @@
-{
-	"type":"stonecutting",
-	"group":"cut_copper_vertical_slab",
-	"ingredient":{
-		"item":"cavesandcliffs:copper_block"
-	},
-	"result":"cavesandcliffs:cut_copper_vertical_slab",
-	"count":8
-}

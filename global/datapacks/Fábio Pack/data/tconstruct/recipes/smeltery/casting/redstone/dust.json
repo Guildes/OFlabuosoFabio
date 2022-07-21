@@ -1,9 +1,0 @@
-{
-  "type": "tconstruct:casting_table",
-  "fluid": {
-    "name": "thermal:redstone",
-    "amount": 100
-  },
-  "result": "minecraft:redstone",
-  "cooling_time": 65
-}
